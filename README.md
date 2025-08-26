@@ -14,6 +14,21 @@ The goal of this project was to practice working with data in Excel, while uncov
 In this project, I practiced asking the right questions, finding patterns in data, and presenting them in a way that can help a business make better decisions.
 
 ## TOOLS USED:
-* Excel
+* Excel - For Data cleaning
   
-a Data cleaning
+  * Formulas (IF Function)
+  * Find and Replace
+  * Pivot tables
+  * charts
+  * Slicers
+  * Shapes
+
+## KEY ANALYSIS
+
+* Total buyers
+* Gender with the highest purchase
+* Occupations of bike buyers
+* Distance commuted by bike buyers
+* % difference between buyers and non-buyers
+* Region where most bikes were purchased
+
