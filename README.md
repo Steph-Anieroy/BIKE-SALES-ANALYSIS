@@ -31,7 +31,7 @@ In this project, I practiced asking the right questions, finding patterns in dat
 * Gender
 * Income
 * Number of Children
-* Edcation
+* Education
 * Occupation
 * Commute Distance
 * Age
@@ -56,5 +56,25 @@ In this project, I practiced asking the right questions, finding patterns in dat
 
 ## KEY INSIGHT
 
+* ### Occupation:
+  Professionals recorded the highest number of bike purchases, outperforming all other occupation groups.
+
+* ### Overall Purchases:
+  Total bike buyers were 7.32% lower compared to non–bike buyers.
+
+* ### Gender:
+  Male customers accounted for the highest proportion of bike purchases.
+
+* ### Region:
+  North America had the largest number of bike buyers overall; however, when compared against non–bike buyers, the Pacific region showed a stronger tendency toward purchasing bikes.
+
+* ### Income:
+  Bike buyers had a higher average income compared to non–bike buyers, with males leading the category.
+
+* ### Age Group:
+  Middle-aged individuals (31–54 years) represented the largest share of bike buyers.
+
+* ### Commute Distance:
+  Customers commuting 0–1 miles showed the highest likelihood of purchasing a bike, while those traveling more than 10 miles were the least likely to purchase.
 
 
